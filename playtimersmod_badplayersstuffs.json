@@ -5,4 +5,5 @@
  "v2DumbassImageSize": [320, 320],
  "v2LoserSpriteImageSize": [880, 968],
  "bWouldLoserSpriteAppearInGameplay": true
+ "bWouldLoserSpriteAppearInMainMenu": true
 }
