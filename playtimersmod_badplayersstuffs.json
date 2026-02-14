@@ -1,12 +1,13 @@
 {
  "LoserUIText": "hacker is loser",
  "DumbassUIText": "brainless shit",
- "DumbassImageURL": "https://cdn.discordapp.com/attachments/1467581572986306852/1471115412577062913/718E3AF0-AEAC-45DD-B23C-B16415CAFB4E.png?ex=69910e3e&is=698fbcbe&hm=34d458c371192c33422bedd37a229ed0471cce45a384ecdb8421e2e7b33769e9&",
+ "DumbassImageURL": "https://cdn.discordapp.com/attachments/1467411465668399235/1472271595002396895/Dumbass.png?ex=6991f745&is=6990a5c5&hm=474947f5a3978ae832f028b50c521ac0e6640a4b1cd1d1fbb36ad2135529f318&",
  "v2DumbassImageSize": [320, 320],
  "v2LoserSpriteImageSize": [880, 968],
  "bWouldLoserSpriteAppearInGameplay": true,
  "bWouldLoserSpriteAppearInMainMenu": true
 }
+
 
 
 
