@@ -1,0 +1,17 @@
+{
+  "arHackedBlacklistedPlayersCurName": [],
+  "arHackedBlacklistedPlayersID": [],
+  "arAdminPlayersCurName": [],
+  "arAdminPlayersID": [],
+  "arDeveloperPlayersName": [],
+  "arDeveloperPlayersID": [],
+  "arORBlacklistedPlayersCurName": [],
+  "arORBlacklistedPlayersID": [],
+  "arSpecfPlayersReceiveLoserUIInGame": [],
+  "bBanORBlacklistedPlayers": true,
+  "bCanBlacklistedPlayersHost": false,
+  "bWouldBlacklistedPlayersReceiveMsg": true,
+  "bWouldBlacklistedPlayerQuitWhileLaunch": false,
+  "bWouldHackersReceiveLoserUIInGame": true,
+  "bCanAdminBanPlayers": false
+}
