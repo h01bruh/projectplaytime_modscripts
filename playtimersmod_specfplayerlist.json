@@ -1,6 +1,6 @@
 {
   "arHackedBlacklistedPlayersCurName": ["jjk____;3", "The_Shark :3", "331CN", "Hello[CHN]", "威威CFPJ___", "apple_496", "小董X-D", "TYY-PRPT", "CXZ-P"],
-  "arHackedBlacklistedPlayersID": ["76561199474972382", "76561199407266586", "76561199480627465", "76561199624642920", "76561199864958522", "76561199770021877", "76561199513763453", "76561198962378479", "76561199708642198"],
+  "arHackedBlacklistedPlayersID": ["76561199474972382", "76561199407266586", "76561199480627465", "76561199624642920", "76561199864958522", "76561199770021877", "76561199513763453", "76561198962378479", "76561199708642198", "76561199527743391"],
   "arAdminPlayersCurName": [],
   "arAdminPlayersID": [],
   "arDeveloperPlayersName": [],
@@ -16,6 +16,7 @@
   "bWouldBlacklistedPlayerReceiveLoserUIInGame": false,
   "bCanAdminBanPlayers": false
 }
+
 
 
 
