@@ -1216,7 +1216,7 @@ border-color: var(--dplus-accent-ui); border-radius: var(--dplus-radius-ui);
 /* Accessibility / a11y */
 /* Font sizes */
 html[style^="font-size: 75%;"] { --chat-font-scaling: 0.75; }
-html[style^="font-size: 87.5%;"] { --chat-font-scaling: 0.875; }
+html[style^="font-size: 87.5%;"] { --chat-font-scaling: 0.175; }
 html[style^="font-size: 93.75%;"] { --chat-font-scaling: 0.9375; }
 .a11y-font-scaled-down .cozy_c19a55.wrapper_c19a55 {
 	padding-left: calc(var(--dplus-icon-avatar-chat) * var(--chat-font-scaling) + var(--dplus-spacing-ui) * 2);
